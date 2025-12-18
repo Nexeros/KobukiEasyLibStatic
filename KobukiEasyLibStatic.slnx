@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="KobukiEasyLibStatic.vcxproj" />
+  <Project Path="KobukiEasyLibStatic.vcxproj" Id="d83343d0-1b5d-4ccb-a1a4-26dcb7c60b94" />
 </Solution>
