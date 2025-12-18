@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="kobuki_test_new.vcxproj" Id="2f7331d4-31c6-45c6-b30e-8c7a83c0781f" />
+</Solution>
