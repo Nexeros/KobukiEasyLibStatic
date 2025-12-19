@@ -1,0 +1,33 @@
+# CMake build directories
+cmake-build-*/
+build/
+out/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+CTestTestFile.cmake
+Makefile
+
+# Build outputs
+KobukiTest
+*.o
+*.a
+*.so
+*.dylib
+
+# IDE - CLion / JetBrains
+.idea/
+*.iml
+
+# Compilation database
+compile_commands.json
+
+# System files
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
