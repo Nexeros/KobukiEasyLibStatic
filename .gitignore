@@ -1,0 +1,52 @@
+# CMake build directories
+cmake-build-*/
+build/
+out/
+
+# CMake cache and generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+_deps/
+
+# Build outputs
+*.a
+*.so
+*.dylib
+*.exe
+*.out
+*.app
+
+# Compiler outputs
+*.o
+*.obj
+*.lo
+*.slo
+
+# IDE - JetBrains (CLion)
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/**/contentModel.xml
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+.idea/**/gradle.xml
+.idea/**/libraries
+*.iws
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+*~
+.*.swp
+.*.swo
